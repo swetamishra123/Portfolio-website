@@ -1,7 +1,7 @@
 
 # Portfolio Website
 
-This project is a portfolio website created using HTML, CSS, and JavaScript. It showcases various sections including an introduction, portfolio, about me, services, and contact information.
+This project is a portfolio website created using HTML, CSS, and JavaScript. It showcases various sections including an introduction, portfolio, about me, services, and contact informatio.
 
 ## Table of Contents
 
